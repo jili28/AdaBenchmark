@@ -1,0 +1,8 @@
+reports/*
+src/reports/*
+build
+dist
+venv
+wandb
+**/__pycache__/
+.idea/
